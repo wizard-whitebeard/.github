@@ -1,0 +1,5 @@
+{
+    "name": "Broadcast",
+    "description": "Send a message to multiple issues.",
+    "iconName": "example-icon"
+}
