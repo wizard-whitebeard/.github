@@ -1,0 +1,14 @@
+name: Broadcast message
+on: 
+  workflow_dispatch:
+    inputs:
+      message:
+        required: false
+      labels:
+        required: false
+
+jobs:
+  broadcast:
+    runs-on: ubuntu-latest
+    steps:
+        - uses: jenschelkopf/broadcast-action@1.0
