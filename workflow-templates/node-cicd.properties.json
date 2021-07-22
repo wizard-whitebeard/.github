@@ -1,0 +1,4 @@
+{
+    "name": "Node CI/CD",
+    "description": "Build and releases a node package"
+}
