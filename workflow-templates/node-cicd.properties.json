@@ -1,5 +1,6 @@
 {
     "name": "Node CI/CD",
     "description": "Build and releases a node package",
-     "categories": ["JavaScript", "Node", "Npm"]
+    "categories": ["JavaScript", "Node", "Npm"],
+    "iconName": "example-icon"
 }
